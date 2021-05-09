@@ -1,1 +1,1 @@
-# iOS_MVC_base
+# iOS Base for MVC struct
